@@ -7,4 +7,6 @@ end
 alias vi "nvim"
 alias vim "nvim"
 
+status --is-interactive; and source (nodenv init -|psub)
+
 
