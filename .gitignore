@@ -1,1 +1,12 @@
 fish_variables
+
+completions/brew.fish
+completions/tide.fish
+
+conf.d/_*
+conf.d/z.fish
+functions/_*
+functions/tide*
+functions/fish_mode_prompt.fish
+functions/fish_prompt.fish
+
